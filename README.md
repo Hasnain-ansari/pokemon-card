@@ -1,3 +1,3 @@
 # pokemon-card
-this is pokemon card generator webapp
+<h1 style="font-weight:bold;">this is Pokemon card generator web app</h1>
 <img src="card.png">
