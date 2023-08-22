@@ -90,3 +90,10 @@ body{
     padding: 5px 20px;
     cursor: pointer;
 }
+
+#btn:hover{
+    border: 2px solid var(--backGroundColor);
+    background-color: white;
+    color: var(--backGroundColor);
+
+}
